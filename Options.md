@@ -1,4 +1,5 @@
 What make life harder is having not options at all or having too much options to choose from. 
+This is a list of popular options specially for JavaScript but not limited to.
 
 # Front-end
 
