@@ -45,6 +45,16 @@ see also: [hyperpolyglot for React, Angular 1/2, Ember,...](http://jeffcarp.gith
  - BrowserSync
  - livereload
 
+### Code Playgrounds / snippet runners
+
+ - [Codepen](http://codepen.io/)
+ - [Plunker](https://plnkr.co/)
+ - [JSbin](jsbin.com)
+ - [JSfiddle](https://jsfiddle.net/)
+ - [CssDeck](http://cssdeck.com/)
+ - [Dabblet](http://dabblet.com/)
+ - [Livewave](http://liveweave.com/)
+
 # Shared (Both Back/Front-end)
 
 ## JavaScript
