@@ -95,11 +95,12 @@ This is a list of popular options specially for JavaScript but not limited to.
 ### JavaScript Static content generators / blog 
 [1](http://www.staticgen.com/)
 
--[Hexo](https://hexo.io/)
--[Ghost](https://github.com/TryGhost/Ghost)
--[Gitbook](https://github.com/GitbookIO/gitbook)
--[Jekyll](https://github.com/jekyll/jekyll) (Ruby)
--[Octopress](https://github.com/imathis/octopress) (Ruby)
+
+- [Hexo](https://hexo.io/)
+- [Ghost](https://github.com/TryGhost/Ghost)
+- [Gitbook](https://github.com/GitbookIO/gitbook)
+- [Jekyll](https://github.com/jekyll/jekyll) - Ruby
+- [Octopress](https://github.com/imathis/octopress) - Ruby
 
 
 # Back-end 
