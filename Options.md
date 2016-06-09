@@ -27,7 +27,8 @@ This is a list of popular options specially for JavaScript but not limited to.
 
 ## JavaScript
 
-### Frameworks/Libraries
+### Frameworks/Libraries 
+[1](http://jeffcarp.github.io/frontend-hyperpolyglot) [2](http://www.clock.co.uk/blog/javascript-frameworks-in-2016)
 
 - [Angular 1](https://github.com/angular/angular.js) 
 ![(GH-stars)](https://img.shields.io/github/stars/angular/angular.js.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/angular/angular.js.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/angular/angular.js.svg?style=flat-square)
@@ -38,14 +39,15 @@ This is a list of popular options specially for JavaScript but not limited to.
 - [jQuery](https://github.com/jquery/jquery) 
 ![(GH-stars)](https://img.shields.io/github/stars/jquery/jquery.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jquery/jquery.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jquery/jquery.svg?style=flat-square)
 - Backbone
+- Vue.js
 
-see also: [hyperpolyglot for React, Angular 1/2, Ember,...](http://jeffcarp.github.io/frontend-hyperpolyglot)
 
 ### Browser Reloaders
  - BrowserSync
  - livereload
 
-### [Code Playgrounds](https://www.sitepoint.com/7-code-playgrounds/) / snippet runners
+### Code Playgrounds / snippet runners
+ [1](https://www.sitepoint.com/7-code-playgrounds/)
 
  - [Codepen](http://codepen.io/)
  - [Plunker](https://plnkr.co/)
@@ -73,7 +75,9 @@ see also: [hyperpolyglot for React, Angular 1/2, Ember,...](http://jeffcarp.gith
 
 - Sinonjs
 
-### JavaScript [Linting](https://www.sitepoint.com/comparison-javascript-linting-tools/)
+### JavaScript Linting 
+[1](https://www.sitepoint.com/comparison-javascript-linting-tools/)
+
  - [JShint](https://github.com/jshint/jshint) ![(GH-stars)](https://img.shields.io/github/stars/jshint/jshint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jshint/jshint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jshint/jshint.svg?style=flat-square)
  - [ESLint](https://github.com/eslint/eslint) ![(GH-stars)](https://img.shields.io/github/stars/eslint/eslint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/eslint/eslint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/eslint/eslint.svg?style=flat-square)
  - [JSLint](https://github.com/douglascrockford/JSLint) ![(GH-stars)](https://img.shields.io/github/stars/douglascrockford/JSLint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/douglascrockford/JSLint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/douglascrockford/JSLint.svg?style=flat-square)
@@ -88,13 +92,20 @@ see also: [hyperpolyglot for React, Angular 1/2, Ember,...](http://jeffcarp.gith
  - [toddmotto/angular-styleguide](https://github.com/toddmotto/angular-styleguide) ![(GH-stars)](https://img.shields.io/github/stars/toddmotto/angular-styleguide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/toddmotto/angular-styleguide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/toddmotto/angular-styleguide.svg?style=flat-square)
  - [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) ![(GH-stars)](https://img.shields.io/github/stars/mgechev/angularjs-style-guide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/mgechev/angularjs-style-guide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/mgechev/angularjs-style-guide.svg?style=flat-square)
 
+### JavaScript Static content generators / blog 
+[1](http://www.staticgen.com/)
+
+-[Hexo](https://hexo.io/)
+-[Ghost](https://github.com/TryGhost/Ghost)
+-[Jekyll](https://github.com/jekyll/jekyll) (Ruby)
+-[Octopress](https://github.com/imathis/octopress) (Ruby)
+-[]() 
 # Back-end 
 
 ## JavaScript
 
-### JavaScript Runtimes
-
-See [ECMAScript adoption](http://kangax.github.io/compat-table)
+### JavaScript Runtimes 
+[1](http://kangax.github.io/compat-table)
 
 - [Node](https://github.com/nodejs/node) ![(GH-stars)](https://img.shields.io/github/stars/nodejs/node.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/nodejs/node.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/nodejs/node.svg?style=flat-square)
 - [Kinoma](https://github.com/Kinoma/kinomajs) ![(GH-stars)](https://img.shields.io/github/stars/Kinoma/kinomajs.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/Kinoma/kinomajs.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/Kinoma/kinomajs.svg?style=flat-square)
@@ -115,8 +126,7 @@ See [ECMAScript adoption](http://kangax.github.io/compat-table)
 - Kraken
 
 ### Transpilers/Compilers/Polyfills
-
-See [ECMAScript adoption](http://kangax.github.io/compat-table)
+[1](http://kangax.github.io/compat-table)
 
 - [Babel](https://github.com/babel/babel) ![(GH-stars)](https://img.shields.io/github/stars/babel/babel.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/babel/babel.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/babel/babel.svg?style=flat-square)
 - [TypeScript](https://github.com/Microsoft/TypeScript) ![(GH-stars)](https://img.shields.io/github/stars/Microsoft/TypeScript.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/Microsoft/TypeScript.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/Microsoft/TypeScript.svg?style=flat-square)
