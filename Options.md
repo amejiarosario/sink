@@ -45,7 +45,7 @@ see also: [hyperpolyglot for React, Angular 1/2, Ember,...](http://jeffcarp.gith
  - BrowserSync
  - livereload
 
-### Code Playgrounds / snippet runners
+### [Code Playgrounds](https://www.sitepoint.com/7-code-playgrounds/) / snippet runners
 
  - [Codepen](http://codepen.io/)
  - [Plunker](https://plnkr.co/)
