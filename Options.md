@@ -45,6 +45,39 @@ see also: [hyperpolyglot for React, Angular 1/2, Ember,...](http://jeffcarp.gith
  - BrowserSync
  - livereload
 
+# Shared (Both Back/Front-end)
+
+## JavaScript
+
+### JavaScript Utilities
+
+- lodash
+- underscore
+
+### JavaScript Unit testing
+
+- Jasmine
+- Mocha
+
+### JavaScript Mocking (tests)
+
+- Sinonjs
+
+### JavaScript [Linting](https://www.sitepoint.com/comparison-javascript-linting-tools/)
+ - [JShint](https://github.com/jshint/jshint) ![(GH-stars)](https://img.shields.io/github/stars/jshint/jshint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jshint/jshint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jshint/jshint.svg?style=flat-square)
+ - [ESLint](https://github.com/eslint/eslint) ![(GH-stars)](https://img.shields.io/github/stars/eslint/eslint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/eslint/eslint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/eslint/eslint.svg?style=flat-square)
+ - [JSLint](https://github.com/douglascrockford/JSLint) ![(GH-stars)](https://img.shields.io/github/stars/douglascrockford/JSLint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/douglascrockford/JSLint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/douglascrockford/JSLint.svg?style=flat-square)
+ - [JSCS](https://github.com/jscs-dev/node-jscs) Merged with ESLint. ![(GH-stars)](https://img.shields.io/github/stars/jscs-dev/node-jscs.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jscs-dev/node-jscs.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jscs-dev/node-jscs.svg?style=flat-square)
+
+### JavaScript Style Guides
+ - [airbnb/javascript](https://github.com/airbnb/javascript) ![(GH-stars)](https://img.shields.io/github/stars/airbnb/javascript.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/airbnb/javascript.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/airbnb/javascript.svg?style=flat-square)
+ - [Angular 2 StyleGuide](https://angular.io/styleguide) 
+ - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) ![(GH-stars)](https://img.shields.io/github/stars/rwaldron/idiomatic.js.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/rwaldron/idiomatic.js.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/rwaldron/idiomatic.js.svg?style=flat-square)
+ - [gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) ![(GH-stars)](https://img.shields.io/github/stars/gocardless/angularjs-style-guide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/gocardless/angularjs-style-guide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/gocardless/angularjs-style-guide.svg?style=flat-square)
+ - [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) ![(GH-stars)](https://img.shields.io/github/stars/johnpapa/angular-styleguide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/johnpapa/angular-styleguide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/johnpapa/angular-styleguide.svg?style=flat-square)
+ - [toddmotto/angular-styleguide](https://github.com/toddmotto/angular-styleguide) ![(GH-stars)](https://img.shields.io/github/stars/toddmotto/angular-styleguide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/toddmotto/angular-styleguide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/toddmotto/angular-styleguide.svg?style=flat-square)
+ - [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) ![(GH-stars)](https://img.shields.io/github/stars/mgechev/angularjs-style-guide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/mgechev/angularjs-style-guide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/mgechev/angularjs-style-guide.svg?style=flat-square)
+
 # Back-end 
 
 ## JavaScript
@@ -114,36 +147,3 @@ See [ECMAScript adoption](http://kangax.github.io/compat-table)
 
  - Django
  - Pylon
-
-# Shared (Both Back/Front-end)
-
-## JavaScript
-
-### JavaScript Utilities
-
-- lodash
-- underscore
-
-### JavaScript Unit testing
-
-- Jasmine
-- Mocha
-
-### JavaScript Mocking (tests)
-
-- Sinonjs
-
-### JavaScript [Linting](https://www.sitepoint.com/comparison-javascript-linting-tools/)
- - [JShint](https://github.com/jshint/jshint) ![(GH-stars)](https://img.shields.io/github/stars/jshint/jshint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jshint/jshint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jshint/jshint.svg?style=flat-square)
- - [ESLint](https://github.com/eslint/eslint) ![(GH-stars)](https://img.shields.io/github/stars/eslint/eslint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/eslint/eslint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/eslint/eslint.svg?style=flat-square)
- - [JSLint](https://github.com/douglascrockford/JSLint) ![(GH-stars)](https://img.shields.io/github/stars/douglascrockford/JSLint.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/douglascrockford/JSLint.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/douglascrockford/JSLint.svg?style=flat-square)
- - [JSCS](https://github.com/jscs-dev/node-jscs) Merged with ESLint. ![(GH-stars)](https://img.shields.io/github/stars/jscs-dev/node-jscs.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jscs-dev/node-jscs.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jscs-dev/node-jscs.svg?style=flat-square)
-
-### JavaScript Style Guides
- - [airbnb/javascript](https://github.com/airbnb/javascript) ![(GH-stars)](https://img.shields.io/github/stars/airbnb/javascript.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/airbnb/javascript.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/airbnb/javascript.svg?style=flat-square)
- - [Angular 2 StyleGuide](https://angular.io/styleguide) 
- - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) ![(GH-stars)](https://img.shields.io/github/stars/rwaldron/idiomatic.js.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/rwaldron/idiomatic.js.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/rwaldron/idiomatic.js.svg?style=flat-square)
- - [gocardless/angularjs-style-guide](https://github.com/gocardless/angularjs-style-guide) ![(GH-stars)](https://img.shields.io/github/stars/gocardless/angularjs-style-guide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/gocardless/angularjs-style-guide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/gocardless/angularjs-style-guide.svg?style=flat-square)
- - [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) ![(GH-stars)](https://img.shields.io/github/stars/johnpapa/angular-styleguide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/johnpapa/angular-styleguide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/johnpapa/angular-styleguide.svg?style=flat-square)
- - [toddmotto/angular-styleguide](https://github.com/toddmotto/angular-styleguide) ![(GH-stars)](https://img.shields.io/github/stars/toddmotto/angular-styleguide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/toddmotto/angular-styleguide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/toddmotto/angular-styleguide.svg?style=flat-square)
- - [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) ![(GH-stars)](https://img.shields.io/github/stars/mgechev/angularjs-style-guide.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/mgechev/angularjs-style-guide.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/mgechev/angularjs-style-guide.svg?style=flat-square)
