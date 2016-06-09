@@ -39,7 +39,7 @@ This is a list of popular options specially for JavaScript but not limited to.
 - [jQuery](https://github.com/jquery/jquery) 
 ![(GH-stars)](https://img.shields.io/github/stars/jquery/jquery.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jquery/jquery.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jquery/jquery.svg?style=flat-square)
 - Backbone
-- Vue.js
+- [Vue.js](https://github.com/vuejs/vue)
 
 
 ### Browser Reloaders
@@ -97,9 +97,11 @@ This is a list of popular options specially for JavaScript but not limited to.
 
 -[Hexo](https://hexo.io/)
 -[Ghost](https://github.com/TryGhost/Ghost)
+-[Gitbook](https://github.com/GitbookIO/gitbook)
 -[Jekyll](https://github.com/jekyll/jekyll) (Ruby)
 -[Octopress](https://github.com/imathis/octopress) (Ruby)
--[]() 
+
+
 # Back-end 
 
 ## JavaScript
