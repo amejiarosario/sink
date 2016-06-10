@@ -8,8 +8,10 @@ This is a list of popular options specially for JavaScript but not limited to.
 ### Preprocessors
  - Jade
  - ejs
- - haml
- - slim
+ - Haml
+ - Slim
+ - Markdown
+ - Asciidoc
 
 ## CSS
 
@@ -128,7 +130,7 @@ This is a list of popular options specially for JavaScript but not limited to.
 - Restify
 - Kraken
 
-### Transpilers/Compilers/Polyfills
+### Preprocesor (Transpilers/Compilers/Polyfills)
 [1](http://kangax.github.io/compat-table)
 
 - [Babel](https://github.com/babel/babel) ![(GH-stars)](https://img.shields.io/github/stars/babel/babel.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/babel/babel.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/babel/babel.svg?style=flat-square)
@@ -136,6 +138,7 @@ This is a list of popular options specially for JavaScript but not limited to.
 - CoffeScript  ![(GH-stars)](https://img.shields.io/github/stars/jashkenas/coffeescript.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/jashkenas/coffeescript.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/jashkenas/coffeescript.svg?style=flat-square)
 - [Dart](https://www.dartlang.org/)
 - [Traceur](https://github.com/google/traceur-compiler) ![(GH-stars)](https://img.shields.io/github/stars/google/traceur-compiler.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/google/traceur-compiler.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/google/traceur-compiler.svg?style=flat-square)
+- [LiveScript](https://github.com/gkz/LiveScript) ![(GH-stars)](https://img.shields.io/github/stars/gkz/LiveScript.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/gkz/LiveScript.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/gkz/LiveScript.svg?style=flat-square)
 
 ### Task Runners
 
