@@ -51,15 +51,24 @@ This is a list of popular options specially for JavaScript but not limited to.
 ### Code Playgrounds / snippet runners
  [1](https://www.sitepoint.com/7-code-playgrounds/)
 
- - [Codepen](http://codepen.io/)
- - [Plunker](https://plnkr.co/)
- - [JSbin](jsbin.com)
+ - [Codepen](http://codepen.io/) - autorun, console output css/scss, html/jade/slim/jsx/markdown, javascript/babel/typescript
+ - [Plunker](https://plnkr.co/) - autorun, files, css, html, js
+ - [JSbin](jsbin.com) - css, html, js
  - [JSfiddle](https://jsfiddle.net/)
  - [CssDeck](http://cssdeck.com/)
  - [Bootply](http://www.bootply.com)
  - [CodePly](http://www.codeply.com/) 
  - [Dabblet](http://dabblet.com/)
  - [Livewave](http://liveweave.com/)
+ - [D3](http://phrogz.net/js/d3-playground/#BlankDefault) - CSS, d3.js code, $data
+ - [ES6 Fiddle](http://www.es6fiddle.net/) - JS console output
+ - [Esnextb](https://esnextb.in/) - ES6, HTML
+
+### Code Playgrounds / Full-stack online dev environments
+ - [HyperDev](https://hyperdev.com) - HyperDev is the developer playground for building real web apps, fast. Combining automated deployment, instant hosting and collaborative editing, HyperDev gets you straight to coding.
+ - [Cloud9](https://c9.io/) - online IDE / remote VM
+ - [CodeAnywhere](https://codeanywhere.com/) - online IDE 
+ - [IDEone](https://ideone.com) - Online Java compiler runner
 
 # Shared (Both Back/Front-end)
 
