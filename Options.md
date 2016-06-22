@@ -126,6 +126,8 @@ This is a list of popular options specially for JavaScript but not limited to.
 - [Node](https://github.com/nodejs/node) ![(GH-stars)](https://img.shields.io/github/stars/nodejs/node.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/nodejs/node.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/nodejs/node.svg?style=flat-square)
 - [Kinoma](https://github.com/Kinoma/kinomajs) ![(GH-stars)](https://img.shields.io/github/stars/Kinoma/kinomajs.svg?style=flat-square) ![(GH-forks)](https://img.shields.io/github/forks/Kinoma/kinomajs.svg?style=flat-square) ![(GH-issues)](https://img.shields.io/github/issues/Kinoma/kinomajs.svg?style=flat-square)
 - [PhantomJS](http://phantomjs.org/)
+- [Rhino](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino)
+- [Nashorn](http://openjdk.java.net/projects/nashorn/)
 - Chrome
 - Opera
 - Firefox
