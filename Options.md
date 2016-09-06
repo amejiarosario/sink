@@ -23,9 +23,15 @@ This is a list of popular options specially for JavaScript but not limited to.
   - Compass
   
 ### Frameworks
- - Material Lite
- - Bootstrap
- - Foundation
+ - [Google Material Design](https://material.google.com)
+   - Material Lite ![(GH-stars)](https://img.shields.io/github/stars/google/material-design-lite.svg?style=flat-square)  
+   - Material 1 ![(GH-stars)](https://img.shields.io/github/stars/angular/material.svg?style=flat-square)
+   - Material 2 ![(GH-stars)](https://img.shields.io/github/stars/angular/material2.svg?style=flat-square)
+ - Bootstrap 3/4 ![(GH-stars)](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=flat-square)
+    - Angular-Bootstrap ![(GH-stars)](https://img.shields.io/github/stars/angular-ui/bootstrap.svg?style=flat-square)
+    - Ng-Bootstrap  ![(GH-stars)](https://img.shields.io/github/stars/ng-bootstrap/ng-bootstrap.svg?style=flat-square)
+- Semantic UI ![(GH-stars)](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=flat-square)  
+- Foundation ![(GH-stars)](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=flat-square)
 
 ## JavaScript
 
