@@ -89,8 +89,9 @@ This is a list of popular options specially for JavaScript but not limited to.
 
 ### JavaScript Unit testing
 
-- Jasmine
-- Mocha
+- [Jasmine](https://github.com/jasmine/jasmine)  ![(GH-stars)](https://img.shields.io/github/stars/jasmine/jasmine.svg?style=flat-square)
+- [Mocha](https://github.com/mochajs/mocha)  ![(GH-stars)](https://img.shields.io/github/stars/mochajs/mocha.svg?style=flat-square)
+- Tape ([Tape over Jasmine and Mocha](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.b2ww6xh3a))
 
 ### JavaScript Mocking (tests)
 
