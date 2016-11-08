@@ -1,9 +1,43 @@
-| Growth Rate | Name         | Sample Code                                                                  | Description                    |
-|-------------|--------------|------------------------------------------------------------------------------|--------------------------------|
-| 1           | Constant     | a = b + 1;                                                                   | Statement (one line of code)   |
-| log(n)      | Logarithmic  | while(n>1){n=n/2; }                                                          | Divide in half (binary search) |
-| n           | Linear       | for(c=0; c                                                                   | Loop                           |
-| n log(n)    | Linearithmic | for(const c in string){   console.log(c); }                                  | Effective sorting algorithms   |
-| n^2         | Quadratic    | for(c=0; c                                                                   | Double loop                    |
-| n^3         | Cubic        | for(c=0; c                                                                   | Triple loop                    |
-| 2^n         | Exponential  | Brute force: Trying to break a password generating all possible combinations | Exhaustive search              |
+<table border=1>
+  <caption>Java and JavaScript comparison</caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Java</th>
+      <th colspan="2">JavaScript</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Node/ES6</th>
+      <th>ES5</th>
+<!--       <th>_</th> -->
+<!--       <th>$</th>       -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>version</th>
+      <td>8</td>
+      <td>6.7.0</td>
+      <td>ES5</td>
+<!--       <td>4.2</td> -->
+<!--       <td>3.1</td> -->
+    </tr>
+  </tbody>
+  
+  <thead>
+    <tr>
+      <th colspan="4">Arrays</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <th>Literal</th>
+      <td><pre>Int[] a = [1,2,3];</pre></td>
+      <td><pre>let a = [1,2,3];</pre></td>
+      <td><pre>var a = [1,2,3];</pre></td>
+    </tr>
+  </tbody>
+</table>
