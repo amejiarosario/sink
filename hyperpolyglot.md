@@ -1,4 +1,4 @@
-<table border=1>
+<table>
   <caption>Java and JavaScript comparison</caption>
   <thead>
     <tr>
